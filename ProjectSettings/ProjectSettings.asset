@@ -547,7 +547,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: TinaX_CA_LuaRuntime_Enable;HOTFIX_ENABLE;ODIN_INSPECTOR;TinaX_CA_VFS_Enable
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
